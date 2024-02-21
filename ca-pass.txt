@@ -1,0 +1,8 @@
+thanhquy1105
+Country Name (2 letter code) [AU]:VI
+State or Province Name (full name) [Some-State]:hue
+Locality Name (eg, city) []:hue
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:none
+Organizational Unit Name (eg, section) []:none
+Common Name (e.g. server FQDN or YOUR name) []:thanhquy
+Email Address []:thanhquy1105@gmail.com
